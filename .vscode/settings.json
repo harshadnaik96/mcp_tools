@@ -1,0 +1,13 @@
+{
+  "chat.mcp.serverSampling": {
+    "mcp_tools/.vscode/mcp.json: tools": {
+      "allowedModels": [
+        "copilot/gpt-5-mini",
+        "copilot/auto",
+        "copilot/claude-3.5-sonnet",
+        "copilot/gpt-4.1",
+        "copilot/gpt-4o"
+      ]
+    }
+  }
+}

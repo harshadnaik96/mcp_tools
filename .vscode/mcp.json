@@ -1,0 +1,13 @@
+{
+	"servers": {
+		"prompts": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"tsx",
+				"main.ts"
+			]
+		}
+	},
+	"inputs": []
+}
